@@ -1,3 +1,3 @@
 # mediation-hidden_risk_factor
 
-This is a ongoing project to develop a method of exploring the "unknown-ness" measured in the mediation model.
+This project develops a mediantion-based method for exploring the amount of "unknown-ness" of a disease outcome of interest. The paper has been published at BMC Bioinformatics: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04977-4.
